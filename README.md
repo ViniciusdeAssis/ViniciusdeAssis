@@ -1,7 +1,7 @@
 ## Olá, Meu nome é Vinícius
 
 - 🔭 Trabalho com Front-End
-- 🌱 Estou aprendendo: Vue.js , CSS, JavaScript, UX e UI
+- 🌱 Estou aprendendo: HTML5 , CSS, JavaScript, Vue.js, UX e UI
 - 📫 Contato: viniciusassiscontato@outlook.com
 
  <div>
