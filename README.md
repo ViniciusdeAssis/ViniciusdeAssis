@@ -1,7 +1,7 @@
 ## Olá, Meu nome é Vinícius
 
 - 🔭 Front-End
-- 🌱 Estou aprendendo: HTML5, CSS, JavaScript, Vue.js, SCRUM, KanBan, UX and UI, WordPress, MySQL e PHP.
+- 🌱 Estou aprendendo: HTML5, CSS, JavaScript, Vue.js, SCRUM, KanBan, UX and UI.
 - 📫 Contato: viniciusassiscontato@outlook.com 
 
  <div>
