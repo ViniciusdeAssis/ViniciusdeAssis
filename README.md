@@ -3,6 +3,7 @@
 - 🔭 Front-End Developer
 - 🌱 HTML5, CSS, JavaScript, Vue.js, SCRUM, KanBan and UX/UI.
 - 📫 Contato: viniciusassiscontato@outlook.com 
+- Meu Portfólio: https://viniciusdeassis.github.io/
 
  <div>
   <a href="https://github.com/ViniciusdeAssis">
