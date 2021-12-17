@@ -1,9 +1,8 @@
-## Olá, Meu nome é Vinícius
+## Olá, Seja Bem Vindo
 
-- 🔭 Front-End Developer
-- 🌱 HTML5, CSS, JavaScript, Vue.js, SCRUM, KanBan and UX/UI.
-- 📫 Contato: viniciusassiscontato@outlook.com 
+
 - Meu Portfólio: https://viniciusdeassis.github.io/
+- 📫 Contato: viniciusassiscontato@outlook.com 
 
  <div>
   <a href="https://github.com/ViniciusdeAssis">
