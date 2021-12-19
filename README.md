@@ -1,8 +1,10 @@
-## Olá, Seja Bem Vindo
+## Olá, seja bem vindo!
 
+<a>Meu nome é Vinícius, sou estudante de Análise e Desenvolvimento de Sistemas(4º e último semestre), no momento procuro estágio na área com foco no Front-End!</a>
 
 - Meu Portfólio: https://viniciusdeassis.github.io/
-- 📫 Contato: viniciusassiscontato@outlook.com 
+- Contato: viniciusassiscontato@outlook.com 
+
 
  <div>
   <a href="https://github.com/ViniciusdeAssis">
