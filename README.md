@@ -2,7 +2,7 @@
 
 <a> Meu nome é Vinícius, sou estudante de Análise e Desenvolvimento de Sistemas (4º e último semestre), com foco no Desenvolvimento Front-End!
 
- Tenho conhecimentos em HTML5, CSS3, Git e Github, pacote Office, Inglês (intermediário), Scrum e KanBan, no momento meu foco total é no JavaScript e React.Js, entretanto ainda vou me aprofundar nos pré-Processadores de CSS (SASS e Less), UX and UI. 
+ Tenho conhecimentos em HTML5, CSS3, Git e Github, Inglês (intermediário), Scrum e KanBan, no momento meu foco total é no JavaScript e React.Js, entretanto ainda vou me aprofundar nos pré-Processadores de CSS (SASS e Less), UX and UI. 
 
  Procuro sempre estar aprimorando as coisas que já sei e estudando tecnologias que almejo aprender, buscando tanto conhecimentos técnicos, como práticos, buscando sempre me tornar o melhor profissional possível!. </a>
 
