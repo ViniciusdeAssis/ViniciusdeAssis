@@ -1,6 +1,6 @@
 ## Olá, seja bem vindo!
 
-<a> Meu nome é Vinícius, sou estudante de Análise e Desenvolvimento de Sistemas (4º e último semestre), com foco no Desenvolvimento Front-End!
+<a> Meu nome é Vinícius, sou formado em Análise e Desenvolvimento de Sistemas, com foco no Desenvolvimento Front-End!
 
  Tenho conhecimentos em HTML5, CSS3, Git e Github, Inglês (intermediário), Scrum e KanBan, no momento meu foco total é no JavaScript e React.Js, entretanto ainda vou me aprofundar nos pré-Processadores de CSS (SASS e Less), UX and UI. 
 
