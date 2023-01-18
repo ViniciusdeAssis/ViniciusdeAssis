@@ -1,10 +1,6 @@
 ## Olá, seja bem vindo!
 
-<a> Meu nome é Vinícius, sou formado em Análise e Desenvolvimento de Sistemas, com foco no Desenvolvimento Front-End!
-
- Tenho conhecimentos em HTML5, CSS3, Git e Github, Inglês (intermediário), Scrum e KanBan, no momento meu foco total é no JavaScript e React.Js, entretanto ainda vou me aprofundar nos pré-Processadores de CSS (SASS e Less), UX and UI. 
-
- Procuro sempre estar aprimorando as coisas que já sei e estudando tecnologias que almejo aprender, buscando tanto conhecimentos técnicos, como práticos, buscando sempre me tornar o melhor profissional possível!. </a>
+<a> Meu nome é Vinícius, sou formado em Análise e Desenvolvimento de Sistemas, com foco no Desenvolvimento Front-End, rstou sempre me aprimorando as coisas que já sei e estudando tecnologias que almejo aprender, buscando tanto conhecimentos técnicos, como práticos, buscando sempre me tornar o melhor profissional possível!. </a>
 
 - Meu Portfólio: https://viniciusdeassis.github.io
 - Contato: viniciusassiscontato@outlook.com 
